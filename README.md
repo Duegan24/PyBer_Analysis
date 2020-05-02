@@ -40,7 +40,6 @@ By analyzing the data both from a standpoint of total results and based on chang
 ## Challenges Encountered and Overcome
 
 ### Challenges and Difficulties Encountered
-
 During this analysis the primary challenges encountered centered around graphing.  The programming was a consistent progression from material that has already been learned.  I am very familiar with proforming data analysis and there were no issues centered around that aspect of the project.
 
 * Programming
@@ -50,11 +49,13 @@ In this project there were some new concepts centered around changing the index 
 The data provided for this project was already clean.  If that had not been the case, some of the largest challenges would have been finding acceptable ways to resolve the challenges.
 
 * Graphing, etc
-Working through the object oriented plotting of the multi-line graph.  The biggest issue as I had trouble finding ways to set the  size of the figure, initially I kept creating a second plot.  I Googled the problem; however, it was necessary to review multiple responses before I could find one where it was clear how to set the figure size.
+The largest challenge I had Working through the object oriented plotting of the multi-line graph.  The biggest issue as I had trouble finding ways to set the  size of the figure, initially I kept creating a second plot.  I Googled the problem; however, it was necessary to review multiple responses in Stack Overflow before I could find one where it was clear how to set the figure size and other attributes of the plot.
 
 ### Technical Analyses Used
 
 ## Recommendations and Next Steps
+
+
 
 ### Recommendations for Future Analysis
 
