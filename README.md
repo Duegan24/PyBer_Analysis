@@ -45,8 +45,6 @@ The data provided for this project was already clean.  If that had not been the 
 * Graphing, etc
 The largest challenge I had Working through the object-oriented plotting of the multi-line graph.  The biggest issue as I had trouble finding ways to set the size of the figure, initially I kept creating a second plot.  I Googled the problem; however, it was necessary to review multiple responses in Stack Overflow before I could find one where it was clear how to set the figure size and other attributes of the plot.
 
-### Technical Analyses Used
-
 ## Recommendations and Next Steps
 As seen in the technical analysis section of this document, it can be observed that rural cities have the fewest number of drivers and riders while having the highest average fares.  This could indicate that there is a potentially underserved market, that the miles driven per trip are longer, that the fare costs are elevated because of percieved value, or a combination of these three or other considerations.  With the current dataset it is difficult to determine what action should be taken and further analysis would be valuable to narrow down cause for the disparities.  Without additional data, it would be recommended to focus on the rural markets and evaluate what impact adding additonal drivers to those cities would have. 
 
